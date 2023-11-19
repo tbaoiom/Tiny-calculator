@@ -1,0 +1,107 @@
+
+Select one of the following operations.
+[A]ddition
+[S]ubtraction
+[M]ultiplication
+[D]ivision
+[%]Modulo
+You have selected addition.
+Enter the first number: 
+Enter the second number: 
+The result is: 333
+Would you like to make another calculation? [Y/N]
+
+Select one of the following operations.
+[A]ddition
+[S]ubtraction
+[M]ultiplication
+[D]ivision
+[%]Modulo
+You have selected subtraction.
+Enter the first number: 
+Enter the second number: 
+The result is: 1111
+Would you like to make another calculation? [Y/N]
+
+Select one of the following operations.
+[A]ddition
+[S]ubtraction
+[M]ultiplication
+[D]ivision
+[%]Modulo
+You have selected division.
+Enter the first number: 
+Enter the second number: 
+The result is: 0
+Would you like to make another calculation? [Y/N]
+
+Select one of the following operations.
+[A]ddition
+[S]ubtraction
+[M]ultiplication
+[D]ivision
+[%]Modulo
+You have selected modulo.
+Enter the first number: 
+Enter the second number: 
+The result is: 1
+Would you like to make another calculation? [Y/N]
+
+Select one of the following operations.
+[A]ddition
+[S]ubtraction
+[M]ultiplication
+[D]ivision
+[%]Modulo
+You have selected division.
+Enter the first number: 
+Enter the second number: 
+The result is: 0
+Would you like to make another calculation? [Y/N]
+
+Select one of the following operations.
+[A]ddition
+[S]ubtraction
+[M]ultiplication
+[D]ivision
+[%]Modulo
+You have selected subtraction.
+Enter the first number: 
+Enter the second number: 
+The result is: 0
+Would you like to make another calculation? [Y/N]
+
+Select one of the following operations.
+[A]ddition
+[S]ubtraction
+[M]ultiplication
+[D]ivision
+[%]Modulo
+You have selected addition.
+Enter the first number: 
+Enter the second number: 
+The result is: 10001
+Would you like to make another calculation? [Y/N]
+
+Select one of the following operations.
+[A]ddition
+[S]ubtraction
+[M]ultiplication
+[D]ivision
+[%]Modulo
+You have selected multiplication.
+Enter the first number: 
+Enter the second number: 
+The result is: 14
+Would you like to make another calculation? [Y/N]
+Calculator Report
+	Number of additions: 2
+	Number of subtractions: 2
+	Number of multiplications: 1
+	Number of divisions: 2
+	Number of modulos: 1
+	Total operations: 8
+	Running total for Odd calculator: 10334
+	Running total for Even calculator: 1126
+	Running total for all operations: 11460
+	Average total of operations: 1432
